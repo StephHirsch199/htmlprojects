@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</head>
+<body>
+
+
+<div class="entirecontainer">
+<h1> The Art of Rejection and What it Means to be Blackballed </h1>
+
+<hr style="color:#A4A4A4">
+
+<div id=".entirecontainer">
+
+
+<h2><strong>By Stephanie Hirsch</strong> <span style="color:#A4A4A4; font-size:0.9em"> March. 8 2016</span></h2>
+<div id="image"> 
+<p>
+  For aspiring Freemasons living in the seventeenth century, rejection was not only a reality, but it was also an artform.  </p> 
+   
+   <p> The Brotherhood crafted a secret balloting system where the fates of future Freemasons were decided by little white or black marbles that indicated a "yay" or "nay" vote. </p>
+   
+   <p> The candidate would be selected into the Lodge if there were more white marbles than black marbles. However, if there were more black marbles than white marbles they would be rejected from the Masonry or more simply put- blackballed. </p> 
+   
+   <p> Blackballed is still a term used today to outcast people from a certain social group or society. Founding Fathers who were Freemasons such as George Washington, Benjamin Franklin, and James Monroe all had to go through the process, and these tradtions still continue in the Freemasons today.</p> 
+   
+   <p> Below is the step-by-step voting process of how one would become blackballed and what it would look like to vote as a Freemason. </p> 
+   
+   <hr style="color:A4A4A4">
+   
+<h3> 1. Casting your Ballot </h3>
+<p> Members of the brotherhood would line up and choose to pick up either a white or a black marble. They would then drop their vote in the back of the ballot box, as they would await the final results. </p>
+<div class="container straighten">
+    <div id="popup1">
+        <div class="marker1" id="ball1"></div>
+        <div class="marker1" id="ball2"></div>
+        <img src="http://i1055.photobucket.com/albums/s516/Stephanie_Hirsch/IMG_4593_zpsgc7j8sf2.jpg" />
+        
+    </div>
+</div>
+<h4> Photo By Stephanie Hirsch </h4>
+<hr style="color:A4A4A4">
+
+<h3> 2. Counting the Votes </h3>
+<p> The Senior Deacon, who is incharge of escorting new candidates into the Lodge, counts the votes with the assistance of the Junior Deacon as they declare who will become new Freemasons. They pull the votes out of the front of the ballot box and collect the marbles from drawer. </p>
+
+<div class="container straighten">
+    <div id="popup2">
+        <div class="marker2" id="ball3"></div>
+        <div class="marker2" id="ball4"></div>
+        <img src="http://i1055.photobucket.com/albums/s516/Stephanie_Hirsch/IMG_4597_zpszhtm0wgu.jpg" />
+    </div>
+  <h4> Photo By Stephanie Hirsch </h4>
+</div>
+<hr style="color:A4A4A4">
+<h3> 3. The Decision </h3>
+<p> Once the votes are counted, the potential members are then indicated by either a white or a black marble whether they are accepted into the Lodge or not. In this case, this person was "blackballed" and not accepted into the Masonry. </p>
+<div class="container straighten">
+    <div id="popup3">
+        <div class="marker3" id="ball5"></div>
+        <img src="http://i1055.photobucket.com/albums/s516/Stephanie_Hirsch/IMG_4595_zpskbsfnyiw.jpg" />
+            </div>
+ <h4> Photo By Stephanie Hirsch </h4>   
+      
+</div>
+
+</div>
+
+
+<style>
+
+h1 {
+	color: black;
+	font-family: Lucida Grande, veranda, sans-serif;
+	font-size: 2.5em;
+}
+
+h2 {
+	color: black;
+	font-family: Lucida Grande, veranda, sans-serif;
+	font-size: 1em;
+}
+
+h3 {
+	color: black;
+	font-family: Lucida Grande, veranda, sans-serif;
+	font-size: 1em;
+}
+
+h4{
+	color: #A4A4A4;
+	font-family: Lucida Grande, veranda, sans-serif;
+	font-size: 11px;
+}
+
+p {
+	color:#424242;
+	font-family: cambria, georgia, serif;
+	font-size:1em;
+}
+
+.textbox {
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+    vertical-align: top;
+    background-color: #eee;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+
+
+.entirecontainer {
+	width: 60%;
+	margin: auto; 
+	
+}
+
+
+
+.container{
+  
+    position: relative;
+    display: inline-block;
+}
+.container img {    
+    width: 100%; 
+}
+.marker1, .marker2, .marker3{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color:#840D29 ;
+    border: 2px solid white;
+    border-radius: 50%;
+    transition: background-color 0.5s ease;
+    cursor: pointer;
+	}
+.marker1:hover, .marker2:hover, .marker3:hover {
+    background-color: #840D29;
+}
+#ball1 {
+    top:48%;
+    left: 62%;
+}
+#ball2 {
+    top:25%;
+    left: 37%;
+} 
+
+#ball3 {
+    top:25%;
+    left: 37%;
+}
+ 
+#ball4 {
+    top:80%;
+    left: 60%;
+} 
+
+#ball5 {
+    top:38%;
+    left: 60%;
+} 
+
+
+
+
+.popuptitle {
+    color: #000A09;
+    font-family:Lucida Grande, veranda, sans-serif;
+    letter-spacing: 0.01em;
+    font-size:13px; 
+    font-weight:700;
+    clear:both;
+}
+#popup1, #popup2, #popup3{
+	position:relative;
+}
+.hoverbox{
+	position: absolute;
+	background-color:#00B233;
+	padding:0.5em;
+	border: 2px solid white;
+	box-shadow: 1 px 1 px 8 px rgba(0,0,0,0.4); 
+	
+}
+</style>
+
+<script>
+$(document).ready(function(){
+
+var data =
+[{"id":"ball1","name":"Voting Marbles"},
+{"id":"ball2","name":"Opening to Voting Box"},
+{"id":"ball3","name":"Back of Ballot Box"},
+{"id":"ball4","name":"Where they Collected the Votes"},
+{"id":"ball5","name":"The actual vote that was casted (Blackball)"}];
+
+$('.marker1, .marker2, .marker3').click(function(e) {
+	$('.textbox').empty();
+	for (var i = 0; i < data.length; i++) {
+		if (this.id == data[i].id) {
+			$('.textbox').append('<div class="popuptitle">' + data[i].name + '</div>' + data[i].description);
+		}//if
+	}//for
+});//click marker
+
+
+var pos, thex, they;
+
+$('.marker1').mouseover(function(e ) {
+	$('.hoverbox').remove();
+	pos = $('#popup1').offset();
+	thex = event.pageX - pos.left + 10;
+	they= event.pageY - pos.top + 0;
+	
+	if (thex > $('#popup1').width() - 150) { thex = $('#popup1').width() - 150 };
+	if (they > $('#popup1').height() - 100) { they = $('#popup1').height() - 100 };
+	
+	for (var i= 0; i < data.length; i++) {
+		if (this.id == data [i].id) {
+			$('#popup1').append('<div class="hoverbox" style="top:'+they+'px; left:'+thex+'px;}"><div class= "popuptitle">'+data[i].name+'</div></dov>');
+		}//if
+		
+	}//for
+	
+	
+});//mouseover
+
+
+
+$('.marker2').mouseover(function(e ) {
+	$('.hoverbox').remove();
+	pos = $('#popup2').offset();
+	thex = event.pageX - pos.left + 10;
+	they= event.pageY - pos.top + 0;
+	
+	if (thex > $('#popup2').width() - 150) { thex = $('#popup2').width() - 150 };
+	if (they > $('#popup2').height() - 100) { they = $('#popup2').height() - 100 };
+	
+	for (var i= 0; i < data.length; i++) {
+		if (this.id == data [i].id) {
+			$('#popup2').append('<div class="hoverbox" style="top:'+they+'px; left:'+thex+'px;}"><div class= "popuptitle">'+data[i].name+'</div></dov>');
+		}//if
+		
+	}//for
+	
+	
+});//mouseover
+
+
+
+$('.marker3').mouseover(function(e ) {
+	$('.hoverbox').remove();
+	pos = $('#popup3').offset();
+	thex = event.pageX - pos.left + 10;
+	they= event.pageY - pos.top + 0;
+	
+	if (thex > $('#popup3').width() - 150) { thex = $('#popup3').width() - 150 };
+	if (they > $('#popup3').height() - 100) { they = $('#popup3').height() - 100 };
+	
+	for (var i= 0; i < data.length; i++) {
+		if (this.id == data [i].id) {
+			$('#popup3').append('<div class="hoverbox" style="top:'+they+'px; left:'+thex+'px;}"><div class= "popuptitle">'+data[i].name+'</div></dov>');
+		}//if
+		
+	}//for
+	
+	
+});//mouseover
+
+$('.marker1, .marker2, .marker3').mouseleave(function(){
+	$('.hoverbox').remove();
+});// mouseleave
+
+});//docready
+</script>
+
+</body>
+</html>
